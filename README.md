@@ -17,7 +17,7 @@ this app generates readme files
 none for this
 
 ## Usage
-to use the app, simply run "node index.js" in the and follow the prompts
+to use the app, simply run "node index.js" in the terminal and follow the prompts
 
 ## License
 
